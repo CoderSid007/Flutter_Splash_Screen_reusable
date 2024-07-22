@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233379104849",
+    "project_id": "totalauth-63c84",
+    "storage_bucket": "totalauth-63c84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233379104849:android:69806c225870b1a8989070",
+        "android_client_info": {
+          "package_name": "com.example.totalauth1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSo9Ayy9eaAIYvT-JKtLXrXdw6cskYEgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
